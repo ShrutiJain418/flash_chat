@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340037914709",
+    "project_id": "flash-card-15cb1",
+    "storage_bucket": "flash-card-15cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340037914709:android:880ebf12f47eba5c3ec4dc",
+        "android_client_info": {
+          "package_name": "co.shrutijain.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340037914709-hga7h1sm988u5vodbe0m3b80i91gmpvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-giH0SoVqukHq7JRmgjwbY82GD6dpfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340037914709-hga7h1sm988u5vodbe0m3b80i91gmpvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
